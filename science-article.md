@@ -1,2 +1,2 @@
 creatimng a merge conflict by writing.
-this is the main branch.
+for both the branches
